@@ -1,12 +1,13 @@
-משרד אדריכליות
-תיאור הפרויקט
+משרד אדריכליות:
+תיאור הפרויקט:
 מערכת לניהול פגישות של לקוחות עם האדריכלית שעתידה לתכנן את ביתם.
 באמצעות המערכת ניתן להזמין פגישה לאדריכלית ולנהל את כלל הפגישות במשרד.
-ישויות
+ישויות:
 לקוח
 אדריכלית
 פגישה
-מיפוי Routes ללקוח
+
+מיפוי Routes ללקוח:
 שליפת רשימת הלקוחות
 GET https://office.co.il/customers
 שליפת לקוח לפי מזהה
@@ -15,7 +16,8 @@ GET https:// office.co.il/ customers /1
 POST https:// office.co.il/ customers 
 עדכון לקוח
 PUT https:// office.co.il/ customers /1
-מיפוי Routes לאדריכליות
+מיפוי Routes לאדריכליות:
+
 שליפת רשימת האדריכליות
 GET https:// office.co.il/architects
 שליפת אדריכלית לפי מזהה
@@ -24,7 +26,8 @@ GET https:// office.co.il/ architects /1
 POST https:// office.co.il/ architects 
 עדכון אדריכלית
 PUT https:// office.co.il/ architects /1
-מיפוי Routes לפגישות
+מיפוי Routes לפגישות:
+
 שליפת רשימת הפגישות
 GET https:// office.co.il/meetings
 שליפת פגישה לפי מזהה
