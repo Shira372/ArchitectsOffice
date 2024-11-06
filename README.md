@@ -11,6 +11,7 @@
 אדריכלית
 פגישה
 
+
 מיפוי Routes ללקוח:
 
 שליפת רשימת הלקוחות
@@ -21,6 +22,7 @@ GET https:// office.co.il/ customers /1
 POST https:// office.co.il/ customers 
 עדכון לקוח
 PUT https:// office.co.il/ customers /1
+
 מיפוי Routes לאדריכליות:
 
 שליפת רשימת האדריכליות
@@ -31,6 +33,7 @@ GET https:// office.co.il/ architects /1
 POST https:// office.co.il/ architects 
 עדכון אדריכלית
 PUT https:// office.co.il/ architects /1
+
 מיפוי Routes לפגישות:
 
 שליפת רשימת הפגישות
